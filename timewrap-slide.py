@@ -20,7 +20,7 @@ register(
     "<Image>/Filters/Test/Timewrap Slide",
     "*",
     [
-        (PF_Int, "v", "Prędkość", 10)
+        (PF_INT, "v", "Predkosc", 10)
     ],
     [],
     timewrap_slide)
