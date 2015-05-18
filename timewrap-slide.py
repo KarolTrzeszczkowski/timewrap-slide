@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-# GIMP Python plug-in template.
 
 from gimpfu import *
 
